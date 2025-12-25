@@ -48,3 +48,20 @@ My highly opinionated curated list with Cybersecurity News!
 - https://defensivesecurity.org
 - https://www.troyhunt.com
 - https://darknetdiaries.com - podcast
+
+
+# CPS / OT / ICS / Medical Device Security
+
+Independent:
+- https://www.cisa.gov/uscert/ics - Official ICS-CERT advisories
+- https://www.icsadvisoryproject.com - Community project tracking ICS advisories
+- https://dale-peterson.com/blog/ - S4 Conference founder, OT security thought leader
+- https://health-isac.org/post-type//blog/ - Health-ISAC, healthcare sector threat sharing
+
+Vendor blogs:
+- https://claroty.com/blog/ - OT/IoT/Medical device security platform
+- https://www.dragos.com/blog/ - ICS threat intel & platform
+- https://www.nozominetworks.com/blog/ - OT/IoT visibility platform
+- https://www.otorio.com/blog/ - OT security platform
+- https://www.forescout.com/blog/ - Device visibility platform
+- https://www.opswat.com/blog - OT security solutions
