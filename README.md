@@ -40,7 +40,7 @@ My highly opinionated curated list with Cybersecurity News!
 - Conferances - infocondb.org
 - gtidocs.virustotal.com - Google Threat Intel
 - zeltser.com/cheat-sheets/
-- Harrel - journeyintoir.blogspot.com
+- journeyintoir.blogspot.com - Harrel
 - jonas.colmsjo.com
 - malicious.life - podcast
 - risky.biz - Patrick Gray
